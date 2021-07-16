@@ -15,7 +15,7 @@ This project is a mobile version of my portfolio. It will be continous project t
 - css
 ## Live Demo
 
-[Live Demo Link](https://obote.github.io/portfolio-obote/#)
+[Live Demo Link](https://obote.github.io/mobile-setup/)
 
 
 
